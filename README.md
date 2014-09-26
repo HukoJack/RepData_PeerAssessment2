@@ -1,10 +1,10 @@
-# Consequences of Different Weather Events on Population Health and Economic in USA Between 1950 and 2011
+# Consequences of Different Weather Events on Population Health and Economic in USA between 1950 and 2011
 
 This is an educational project, which is the part of [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) provided by Johns Hopkins University on Coursera. 
 
 You can find published results of this study on [Rpubs](http://rpubs.com/HukoJack/17772).
 
-Or you can explore it here: [REport](http://htmlpreview.github.io/?https://github.com/HukoJack/USA_Weather_Events/blob/master/code.html)
+Or you can explore it here: [Report](http://htmlpreview.github.io/?https://github.com/HukoJack/USA_Weather_Events/blob/master/code.html)
 
 ## Introduction
 
